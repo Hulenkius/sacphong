@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024px"
+   height="1024px"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="model.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.35723204"
+     inkscape:cx="-103.57414"
+     inkscape:cy="828.59309"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="795.00147,942.82027"
+       orientation="0,-1"
+       id="guide914" />
+    <sodipodi:guide
+       position="789.40287,72.237674"
+       orientation="0,-1"
+       id="guide916" />
+    <sodipodi:guide
+       position="75.581126,707.67899"
+       orientation="1,0"
+       id="guide918" />
+    <sodipodi:guide
+       position="946.16372,542.52024"
+       orientation="1,0"
+       id="guide920" />
+  </sodipodi:namedview>
+  <defs
+     id="defs824" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:983.237px;line-height:1.25;font-family:DragonClaw;-inkscape-font-specification:'DragonClaw, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:24.581"
+       x="27.437195"
+       y="853.90082"
+       id="text2499"><tspan
+         sodipodi:role="line"
+         id="tspan2497"
+         x="27.437195"
+         y="853.90082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:983.237px;font-family:DragonClaw;-inkscape-font-specification:'DragonClaw, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:24.581">字</tspan></text>
+  </g>
+</svg>
